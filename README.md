@@ -8,6 +8,8 @@
 
 ## SECTION 2 : EXECUTIVE SUMMARY / REPORT ABSTRACT
 
+The main function of our system is to be able to generate Mario game maps, and to provide automatic detection and trial play of new maps. This function is mainly realized through GAN & CMA-ES and other technologies. And our UI interface is designed based on java-swing. In the Techniques/Algorithms chapter of the project report, we discussed these technologies and algorithms in detail.
+
 ---
 
 ## SECTION 3 : CREDITS / PROJECT CONTRIBUTION
